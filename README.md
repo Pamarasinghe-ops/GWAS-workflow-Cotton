@@ -1,4 +1,4 @@
-# GWAS-workflow-Cotton
+# GWAS workflow for cotton nep traits
 A repository to store scripts used for GWAS analysis on Cotton neps
 
 ## GWAS with GAPIT
