@@ -4,7 +4,7 @@ The scripts included in this repository were used for GWAS and post-GWAS analysi
 ## Custom scripts
 To eliminate duplicates, a custom Python script was used.
 Additionally, a custom Python script was used to calculate descriptive statistics.
-R scripts from the original sources were customized for this dataset to create violin plots, LDHeatmap, expression heatmap, and to customize Manhattan plots and local plots.
+R scripts from the original sources were customized for this dataset to create violin plots, LDHeatmaps, expression heatmaps, and to customize Manhattan plots and local plots.
 
 ## References
 Huang M, Liu X, Zhou Y, Summers RM, Zhang Z. BLINK: A package for the next level of genome-wide association studies with both individuals and markers in the millions. Gigascience. https://doi.org/10.1093/gigascience/giy154.
