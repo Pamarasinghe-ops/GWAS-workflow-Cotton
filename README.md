@@ -1,8 +1,10 @@
 # GWAS workflow for cotton nep traits
-A repository to store scripts used for GWAS analysis on Cotton neps
+The scripts included in this repository were used for GWAS and post-GWAS analysis on Cotton neps.
 
-## GWAS with GAPIT
-GWAS methods include: General Linear Model(GLM), Mixed Linear Model(MLM), (Fixed and random model Circulating Probability Unification (FarmCPU), and Bayesian-information and linkage-disequilibrium iteratively nested keyway (BLINK).
+## Custom scripts
+To eliminate duplicates, a custom Python script was used.
+Additionally, a custom Python script was used to calculate descriptive statistics.
+R scripts from original sources were customized to create violin plots, LDHeatmap, expression heatmap, and to customize Manhattan plots and local plots.
 
 ## References
 Huang M, Liu X, Zhou Y, Summers RM, Zhang Z. BLINK: A package for the next level of genome-wide association studies with both individuals and markers in the millions. Gigascience. https://doi.org/10.1093/gigascience/giy154.
